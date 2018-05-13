@@ -1,2 +1,4 @@
 # DC-Motor-Controller
 Simple IGBT based controller for DC motors used in Electric Vehicles. Based on the Paul Holmes Revolt system
+
+13/05/18 : Uploaded files for IGBT driver board. Still undergoing bench tests. Use at own risk. Don't use this to blow up yourself , your house, cat or car.
