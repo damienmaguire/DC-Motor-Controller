@@ -15,4 +15,6 @@ Support forum : https://openinverter.org/forum/
 
 16/04/19 : Added design for simple precharge controller. Use Zener diode and resistors to tune switch on voltage.
 
-23/06/19 : All designs here teted and working in my budget BMW E36 build.
+23/06/19 : All designs here tested and working in my budget BMW E36 build.
+
+04/08/19 : Throttle input designed to work with a hall effect pedal such as BMW Part number : 35406756492-02
